@@ -1,0 +1,9 @@
+
+Get https://en.wikipedia.org/wiki/Wikipedia:Your_first_article: dial tcp: lookup en.wikipedia.org: no such host
+Get https://en.wikipedia.org/wiki/Template_talk:Did_you_know: dial tcp: lookup en.wikipedia.org: no such host
+Get https://en.wikipedia.org/wiki/Boeing_707: dial tcp: lookup en.wikipedia.org: no such host
+Get https://en.wikipedia.org/w/index.php?title=Free_content&action=edit&section=13: dial tcp [2620:0:861:ed1a::1]:443: connect: network is down
+Get http://www.valt.helsinki.fi/staff/herkia/kava/Seminnarit/MI_mustonen.pdf: dial tcp: lookup www.valt.helsinki.fi: no such host
+Get http://mic.sgmjournals.org/misc/self_archiving.dtl: dial tcp: lookup mic.sgmjournals.org: no such host
+Get https://lendseed.comvl=1280635/cl=16/nw=1/rpsv/ij/oecdthemes/99980029/v2007n3/s1/p1l: dial tcp: lookup lendseed.comvl=1280635: no such host
+Get https://en.wikipedia.org/wiki/Open_Web: EOF
